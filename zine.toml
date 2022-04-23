@@ -1,0 +1,17 @@
+
+[site]
+url = "http://localhost"
+name = "Awesome Fenix"
+description = ""
+
+[[issue]]
+slug = "s1"
+number = 1
+title = "Issue"
+path = "content/issue-1"
+
+[[issue]]
+slug = "s2"
+number = 2
+title = "Blog"
+path = "content/blog"
