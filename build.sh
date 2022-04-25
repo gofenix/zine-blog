@@ -30,5 +30,5 @@ then
     deploy
 else
     echo "Build..."
-    ./bin/zine-linux-amd64 build
+    ./bin/zine-linux-amd64 build . docs
 fi
